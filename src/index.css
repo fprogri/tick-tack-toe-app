@@ -27,17 +27,20 @@ ul {
   /* background: rgb(255, 252, 205); */
   border: 1px solid #999;
   float: right;
-  font-size: 35px;
-  font-weight: bold;
+  font-size: xx-large;
+  /* font-weight: bold; */
   line-height: 34px;
-  height: 54px;
+  height: 22vw;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 54px;
+  width: 22vw;
   margin: 3px;
+  border-radius: 10px;
   color: red;
+  max-width: 70px;
+  max-height: 70px;
 }
 
 .square:focus {
