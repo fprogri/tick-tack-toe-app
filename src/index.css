@@ -18,14 +18,14 @@ ul {
 .status {
   margin: 10px;
   font-weight: bold;
-  color: #545454;
+  color: #282c34;
   text-align: center;
   font-size: 17px;
 }
 
 .square {
-  /* background: rgb(255, 252, 205); */
-  border: 1px solid #999;
+  background: #282c34;
+  border: 0px solid #999;
   float: right;
   font-size: xx-large;
   /* font-weight: bold; */
@@ -38,7 +38,7 @@ ul {
   width: 22vw;
   margin: 3px;
   border-radius: 10px;
-  color: red;
+  color: #61dafb;
   max-width: 70px;
   max-height: 70px;
 }
